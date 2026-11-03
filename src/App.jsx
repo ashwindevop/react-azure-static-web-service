@@ -34,7 +34,7 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-              Azure Cloud Lab Portal
+              AshWin  - Azure Cloud Lab Portal
             </h1>
             <p className="text-xs text-slate-400">Deployed via Azure Static Web Apps & GitHub Actions</p>
           </div>
